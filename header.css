@@ -1,7 +1,7 @@
 .cabeçalho__menu-hamburger{
        width: 35px;
        height:35px;
-       background: url("menu-hamburger.png");
+       background: url("menu-hamburger.png") no repeat;
        background-repeat: no-repeat;
        background-position: center;
        display:inline-block;
