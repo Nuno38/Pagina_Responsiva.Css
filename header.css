@@ -1,11 +1,11 @@
 .cabeçalho__menu-hamburger{
-       width: 90px;
-       height:90px;
-       background: url("menu-hamburger.png") no-repeat;
+       width: 35px;
+       height:35px;
+       background-image: url("../imagens/menu-hamburger.png");
        background-repeat: no-repeat;
        background-position: center;
        display:inline-block;
-       margin: 0px 0px 0px 20px;
+       margin: 0px 0px 0px 10px;
 }
 
 .cabecalho{
@@ -15,23 +15,21 @@
        justify-content: space-between;
        align-items: center;
        position: relative; /** permite inserir outros atributos a botar pra cima pra baixo **/
-       width: 80px;
+       width: -880px;
 }
 .container{
        display: flex;
        align-items: center;
-       margin: 0px 0px 0px 400px;
 }
 
 .container_imagem{
        padding: 1em;
-       width: 90px;
-       
+       text-align: center;
 }
 
 .tamanho_logo{
-       width: 90px;
-       margin: 0px 0px 0px -800px;
+       width: 55px;
+       margin: 0px 0px 0px 700px;
        
 }
 
