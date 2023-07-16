@@ -30,7 +30,7 @@
     font-weight: 400;
     text-align: center;
     color: var(--black);
-    background: url("../imagens/lupa.png") no-repeat;
+    background: url("lupa.png") no-repeat;
     background-position: 1em;
     background-size: 15px;
     
